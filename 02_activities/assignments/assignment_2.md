@@ -27,7 +27,8 @@ link：https://www.gapminder.org/tools/#$chart-type=bubbles&url=v2
     - How could this data visualization have been improved?  
       ```
       Your answer...
-1. Add Narrative Annotations: To enhance the storytelling aspect of the visualization, narrative annotations could be added to highlight significant global events that have shaped trends.
+   
+1、Add Narrative Annotations: To enhance the storytelling aspect of the visualization, narrative annotations could be added to highlight significant global events that have shaped trends.
 For example:
 - 2008 Financial Crisis: Show how the crisis impacted global income levels, especially in developing nations. An annotation could explain why some regions experienced stagnant or declining income during this period.
 - COVID-19 Pandemic (2020-2021): Illustrate how the pandemic caused disruptions in life expectancy, particularly in regions with overwhelmed healthcare systems. Highlight key statistics, such as the drop in average life expectancy in countries like the U.S. or India.
@@ -35,7 +36,7 @@ For example:
 Enhance Accessibility Features (Additional Improvement):
 Currently, the visualization heavily relies on color to convey regions and bubble size for population, which may exclude users with visual impairments (e.g., color blindness). To address this:
 
-2. Add text labels to key bubbles so that users can directly identify countries without relying on hover actions.
+2、Add text labels to key bubbles so that users can directly identify countries without relying on hover actions.
 Use patterns or textures for bubbles or axes, providing alternative ways to distinguish data points.
 Ensure screen readers can describe the key data for each country, making the tool usable for people with visual disabilities.
 Why Accessibility is Crucial:
