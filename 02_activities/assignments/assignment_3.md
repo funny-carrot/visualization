@@ -51,7 +51,8 @@ D’Ignazio, C., & Klein, L. F. (2020). Data Feminism.
         ```
         Your answer...
 
-Good example
+Good example --
+
 Accessibility:
 Use patterns or shapes in addition to colors for bubbles and regions to support color-blind users. Add text descriptions for key trends to make it compatible with screen readers.
 
@@ -62,7 +63,8 @@ Equity:
 Highlight smaller countries by adding notes or annotations for their specific trends. Adjust bubble scaling slightly to avoid small nations being overshadowed by larger ones.
         ```
 
-Bad example
+Bad example --
+
 Accessibility：
 Start the Y-Axis at Zero: Adjust the y-axis to begin at 0%, ensuring that the visual representation accurately reflects the true scale of change. 
 Add Clear Labels and Titles: Include specific labels for the x-axis (years) and y-axis (percentage of Christian population), along with a descriptive title, to clarify the data being represented. 
